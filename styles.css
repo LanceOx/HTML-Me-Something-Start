@@ -1,1 +1,65 @@
-/* Write your CSS here! */ 
+index.html
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 48px;
+    text-align: center;
+}
+
+.funParagraph {
+    background-color: green;
+    color: rgb(166, 118, 237);
+    font-size: 22px;
+    line-height: 2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.detail {
+    color: rgb(12, 203, 184);
+    font-size: 24px;
+    text-align: left;
+}
+
+#miniHeader {
+    color: rgb(174, 114, 25);
+    font-size: 32px;
+    text-align: left;
+}
+
+#smallParagraph {
+    color: navy;
+    font-size: 32;
+    text-align: center;
+}
+
+#billing {
+    color: rgb(179, 12, 12);
+    font-size: 32;
+    text-align: center;
+}
+
+p {
+    background-color: lightpink;
+}
+
+.image1 {
+    background-image: url(/images.js/images/the-united-states-of-america-map.gif);
+}
+
+.image2 {
+    background-image: url(/images.js/images/picard-facepalm2.jpg);
+}
+
+#cave {
+    background-image: url(/images.js/images/cave-of-the-winds-manitou-springs-1440x810.jpg);
+}
+
+.kansas {
+    background-image: url(/images.js/images/ks-mobile.jpg);
+}
